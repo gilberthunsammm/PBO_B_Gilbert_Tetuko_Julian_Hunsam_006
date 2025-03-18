@@ -12,7 +12,7 @@ public class Mahasiswa {
         System.out.print("Masukkan NIM Anda: ");
         String inputNIM = scanner.nextLine();
 
-        String validNama = "gilbwer tetuko julian hunsam";
+        String validNama = "gilbert tetuko julian hunsam";
         String validNIM = "202410370110006";
 
         if (inputNama.equalsIgnoreCase(validNama) && inputNIM.equals(validNIM)) {

@@ -1,32 +1,17 @@
-import java.util.Scanner;
+public class Mahasiswa extends User {
+    public Mahasiswa(String nama, String nim){
+        super(nama,nim);
 
-public class Mahasiswa {
-    Scanner scanner = new Scanner(System.in);
-    String nama;
-    String nim;
-
-    void login() {
-        System.out.print("Masukkan Nama Anda: ");
-        String inputNama = scanner.nextLine();
-
-        System.out.print("Masukkan NIM Anda: ");
-        String inputNIM = scanner.nextLine();
-
-        String validNama = "gilbert tetuko julian hunsam";
-        String validNIM = "202410370110006";
-
-        if (inputNama.equalsIgnoreCase(validNama) && inputNIM.equals(validNIM)) {
-            this.nama = inputNama;
-            this.nim = inputNIM;
-            System.out.println("Login Mahasiswa berhasil!");
-            displayInfo();
-        } else {
-            System.out.println("Login gagal! Nama atau NIM salah.");
-        }
     }
 
-    void displayInfo() {
-        System.out.println("Nama: " + nama);
-        System.out.println("NIM: " + nim);
+    @Override
+    public boolean login(String inputNama, String inputNim){
+        return this.getNama().equals(inputNama) && this.getNim().equals(inputNim);
     }
+
+    @Override
+    public void displayInfo(){
+        System.out.println("Login berhasil! Selamat datang, " + getNama() + "(Mahasiswa)");
+    }
+
 }

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5dd2e71-bb62-496d-82d8-dc00a060c140" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Tugas/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas/Tugas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas/Tugas_PBO/src/com/praktikum/actions/AdminAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas/Tugas_PBO/src/com/praktikum/actions/MahasiswaAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas/Tugas_PBO/src/com/praktikum/main/LoginSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas/Tugas_PBO/src/com/praktikum/user/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas/Tugas_PBO/src/com/praktikum/user/Mahasiswa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas/out/production/Tugas/com/praktikum/actions/AdminAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas/out/production/Tugas/com/praktikum/actions/MahasiswaAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas/out/production/Tugas/com/praktikum/main/LoginSystem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas/out/production/Tugas/com/praktikum/user/Admin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas/out/production/Tugas/com/praktikum/user/Mahasiswa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tugas/out/production/Tugas/com/praktikum/user/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas/Tugas_PBO/src/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas/Tugas_PBO/src/LoginSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas/Tugas_PBO/src/Mahasiswa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Tugas/Tugas_PBO/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tugas/Tugas_PBO/src/com/praktikum/user/User.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2xDRzUi4zM6de8ieLu8oboKpJxy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/PBO_Gilbert_Tetuko_Julian_Hunsam_006/Codlab/Modul 5"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5dd2e71-bb62-496d-82d8-dc00a060c140" name="Changes" comment="" />
+      <created>1747470919383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747470919383</updated>
+    </task>
+    <servers />
+  </component>
+</project>
